@@ -1,0 +1,11 @@
+body {
+    background-color: rgba(17, 202, 202, 0.849);
+    font-family:Tahoma;
+    line-height: 1.5;
+    font-size: 18px;
+}
+
+.title {
+    font-size: 45px;
+    color:rgb(0, 255, 106);
+}
